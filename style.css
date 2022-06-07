@@ -16,6 +16,11 @@
   flex-direction: column;
 }
 
-input {
-  display: inline-block;
+main {
+  display: flex;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
 }
